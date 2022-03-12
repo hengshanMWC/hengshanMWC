@@ -1,7 +1,11 @@
-### Hi there 👋 plmm
+### Hi 👋
+
 - 📫 联系方式
   - wx：**mwc1102428**
   - 邮箱：**1044926436@qq.com**
-- 🌱 弄一些好玩的东西（例如仓库里的），欢迎一起来玩哦
+- 🌱 学习各位大佬 📚
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hengshanMWC&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hengshanMWC&theme=tokyonight&hide=python,shell" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=hengshanMWC&show_icons=true&theme=tokyonight&line_height=40&v=5" />
