@@ -7,5 +7,5 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hengshanMWC&theme=tokyonight&hide=python,shell" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hengshanMWC&theme=tokyonight" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hengshanMWC&show_icons=true&theme=tokyonight&line_height=40&v=5" />
